@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EducationCenter6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|e:\\educationcenter6\\educationcenter6.form\\formsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|solutionrelative:educationcenter6.form\\formsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|e:\\educationcenter6\\educationcenter6.form\\formsalary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|solutionrelative:educationcenter6.form\\formsalary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|E:\\EducationCenter6\\educationcenter6.form\\formsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|solutionrelative:educationcenter6.form\\formsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77644E5E-0FB3-49CE-A4AC-8682EACDCC17}|EducationCenter6.Infrastructure\\EducationCenter6.Infrastructure.csproj|e:\\educationcenter6\\educationcenter6.infrastructure\\educationcenterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77644E5E-0FB3-49CE-A4AC-8682EACDCC17}|EducationCenter6.Infrastructure\\EducationCenter6.Infrastructure.csproj|solutionrelative:educationcenter6.infrastructure\\educationcenterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|e:\\educationcenter6\\educationcenter6.form\\formsubjectassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|solutionrelative:educationcenter6.form\\formsubjectassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|e:\\educationcenter6\\educationcenter6.form\\formsubjectassignment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|solutionrelative:educationcenter6.form\\formsubjectassignment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|E:\\EducationCenter6\\educationcenter6.form\\formsubjectassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|solutionrelative:educationcenter6.form\\formsubjectassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|e:\\educationcenter6\\educationcenter6.form\\formteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B2AD00-57E9-4F87-9684-E3D456D0BF3C}|EducationCenter6.Form\\EducationCenter6.FormApp.csproj|solutionrelative:educationcenter6.form\\formteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77644E5E-0FB3-49CE-A4AC-8682EACDCC17}|EducationCenter6.Infrastructure\\EducationCenter6.Infrastructure.csproj|e:\\educationcenter6\\educationcenter6.infrastructure\\educationcenter6.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77644E5E-0FB3-49CE-A4AC-8682EACDCC17}|EducationCenter6.Infrastructure\\EducationCenter6.Infrastructure.csproj|solutionrelative:educationcenter6.infrastructure\\educationcenter6.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EducationCenterDbContext.cs",
+              "DocumentMoniker": "E:\\EducationCenter6\\EducationCenter6.Infrastructure\\EducationCenterDbContext.cs",
+              "RelativeDocumentMoniker": "EducationCenter6.Infrastructure\\EducationCenterDbContext.cs",
+              "ToolTip": "E:\\EducationCenter6\\EducationCenter6.Infrastructure\\EducationCenterDbContext.cs",
+              "RelativeToolTip": "EducationCenter6.Infrastructure\\EducationCenterDbContext.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:27:20.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormSubjectAssignment.cs [Design]",
+              "DocumentMoniker": "E:\\EducationCenter6\\EducationCenter6.Form\\FormSubjectAssignment.cs",
+              "RelativeDocumentMoniker": "EducationCenter6.Form\\FormSubjectAssignment.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\EducationCenter6\\EducationCenter6.Form\\FormSubjectAssignment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:26:31.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormSalary.cs [Design]",
+              "DocumentMoniker": "E:\\EducationCenter6\\EducationCenter6.Form\\FormSalary.cs",
+              "RelativeDocumentMoniker": "EducationCenter6.Form\\FormSalary.cs",
+              "ToolTip": "E:\\EducationCenter6\\EducationCenter6.Form\\FormSalary.cs [Design]",
+              "RelativeToolTip": "EducationCenter6.Form\\FormSalary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T17:09:17.149Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSalary.cs",
+              "DocumentMoniker": "E:\\EducationCenter6\\EducationCenter6.Form\\FormSalary.cs",
+              "RelativeDocumentMoniker": "EducationCenter6.Form\\FormSalary.cs",
+              "ToolTip": "E:\\EducationCenter6\\EducationCenter6.Form\\FormSalary.cs",
+              "RelativeToolTip": "EducationCenter6.Form\\FormSalary.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAADwv6gAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:07:03.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSalary.Designer.cs",
+              "DocumentMoniker": "E:\\EducationCenter6\\EducationCenter6.Form\\FormSalary.Designer.cs",
+              "RelativeDocumentMoniker": "EducationCenter6.Form\\FormSalary.Designer.cs",
+              "ToolTip": "E:\\EducationCenter6\\EducationCenter6.Form\\FormSalary.Designer.cs",
+              "RelativeToolTip": "EducationCenter6.Form\\FormSalary.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:32:48.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormSubjectAssignment.Designer.cs",
+              "DocumentMoniker": "E:\\EducationCenter6\\EducationCenter6.Form\\FormSubjectAssignment.Designer.cs",
+              "RelativeDocumentMoniker": "EducationCenter6.Form\\FormSubjectAssignment.Designer.cs",
+              "ToolTip": "E:\\EducationCenter6\\EducationCenter6.Form\\FormSubjectAssignment.Designer.cs",
+              "RelativeToolTip": "EducationCenter6.Form\\FormSubjectAssignment.Designer.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAADwv7oAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:58:07.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSubjectAssignment.cs",
+              "DocumentMoniker": "E:\\EducationCenter6\\EducationCenter6.Form\\FormSubjectAssignment.cs",
+              "RelativeDocumentMoniker": "EducationCenter6.Form\\FormSubjectAssignment.cs",
+              "ToolTip": "E:\\EducationCenter6\\EducationCenter6.Form\\FormSubjectAssignment.cs",
+              "RelativeToolTip": "EducationCenter6.Form\\FormSubjectAssignment.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAAALwBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:56:29.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormTeacher.cs",
+              "DocumentMoniker": "E:\\EducationCenter6\\EducationCenter6.Form\\FormTeacher.cs",
+              "RelativeDocumentMoniker": "EducationCenter6.Form\\FormTeacher.cs",
+              "ToolTip": "E:\\EducationCenter6\\EducationCenter6.Form\\FormTeacher.cs",
+              "RelativeToolTip": "EducationCenter6.Form\\FormTeacher.cs",
+              "ViewState": "AQIAANkBAAAAAAAAAAAmwNwBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:47:47.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EducationCenter6.Infrastructure.csproj",
+              "DocumentMoniker": "E:\\EducationCenter6\\EducationCenter6.Infrastructure\\EducationCenter6.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EducationCenter6.Infrastructure\\EducationCenter6.Infrastructure.csproj",
+              "ToolTip": "E:\\EducationCenter6\\EducationCenter6.Infrastructure\\EducationCenter6.Infrastructure.csproj",
+              "RelativeToolTip": "EducationCenter6.Infrastructure\\EducationCenter6.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T14:43:05.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

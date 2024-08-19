@@ -1,0 +1,545 @@
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.exe
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.pdb
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Common.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Infrastructure.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Humanizer.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Common.pdb
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Infrastructure.pdb
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.csproj.AssemblyReference.cache
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.FormSalary.resources
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.FormSubjectAssignment.resources
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.FormTeacher.resources
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.csproj.GenerateResource.cache
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.AssemblyInfoInputs.cache
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.AssemblyInfo.cs
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.csproj.CoreCompileInputs.cache
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\refint\EducationCenter6.FormApp.dll
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.pdb
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.deps.json
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.runtimeconfig.json
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\Educatio.7A2A0696.Up2Date
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.genruntimeconfig.cache
+D:\GreenWich\COMP1551 - Application Development\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\ref\EducationCenter6.FormApp.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.exe
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.deps.json
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.runtimeconfig.json
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.pdb
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Humanizer.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Common.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Infrastructure.dll
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Common.pdb
+D:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Infrastructure.pdb
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.csproj.AssemblyReference.cache
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.FormSalary.resources
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.FormSubjectAssignment.resources
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.FormTeacher.resources
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.csproj.GenerateResource.cache
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.AssemblyInfoInputs.cache
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.AssemblyInfo.cs
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.csproj.CoreCompileInputs.cache
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\Educatio.7A2A0696.Up2Date
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.dll
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\refint\EducationCenter6.FormApp.dll
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.pdb
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.genruntimeconfig.cache
+D:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\ref\EducationCenter6.FormApp.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.exe
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.deps.json
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.runtimeconfig.json
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.pdb
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Common.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Infrastructure.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Common.pdb
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Infrastructure.pdb
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.FormSalary.resources
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.FormSubjectAssignment.resources
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.FormTeacher.resources
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.AssemblyInfo.cs
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\Educatio.7A2A0696.Up2Date
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\refint\EducationCenter6.FormApp.dll
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.pdb
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.genruntimeconfig.cache
+C:\Users\Admin\Downloads\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\ref\EducationCenter6.FormApp.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.exe
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.deps.json
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.runtimeconfig.json
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.FormApp.pdb
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Humanizer.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Common.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Infrastructure.dll
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Common.pdb
+E:\EducationCenter6\EducationCenter6.Form\bin\Debug\net8.0-windows\EducationCenter6.Infrastructure.pdb
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.csproj.AssemblyReference.cache
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.FormSalary.resources
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.FormSubjectAssignment.resources
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.FormTeacher.resources
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.csproj.GenerateResource.cache
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.AssemblyInfoInputs.cache
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.AssemblyInfo.cs
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.csproj.CoreCompileInputs.cache
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\Educatio.7A2A0696.Up2Date
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.dll
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\refint\EducationCenter6.FormApp.dll
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.pdb
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\EducationCenter6.FormApp.genruntimeconfig.cache
+E:\EducationCenter6\EducationCenter6.Form\obj\Debug\net8.0-windows\ref\EducationCenter6.FormApp.dll
